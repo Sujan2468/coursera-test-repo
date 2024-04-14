@@ -1,5 +1,6 @@
 #include<iostream>
 using namespace std;
+void insertionsort();
 int main()
 {
 modified data is 25.

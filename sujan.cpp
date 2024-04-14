@@ -1,6 +1,6 @@
 #include<iostream>
 using namespace std;
-void heapsort();
+void selectionsort();
 int main()
 {
 modified data is 25.
